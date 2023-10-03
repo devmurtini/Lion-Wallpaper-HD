@@ -12,8 +12,8 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max":"1",
-      "interval_intertitial": 3,
-      "initialize_sdk":"107355779",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -29,22 +29,23 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"",
+      "image":"",
+      "link":""
     },
-    {
+	{
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"",
+      "image":"",
+      "link":""
     },
-    {
+	{
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"",
+      "image":"",
+      "link":""
     }
+    
   ],
 
   "Categories": 
@@ -789,13 +790,13 @@
       "id":122,
       "name_category": "All Image",
       "title":"122",
-      "image":"https://i.pinimg.com/564x/02/bc/ee/02bcee9784fa6276ac10f1bc6c651e37.jpgs"
+      "image":"https://i.pinimg.com/564x/02/bc/ee/02bcee9784fa6276ac10f1bc6c651e37.jpg"
     },
 	{
       "id":123,
       "name_category": "All Image",
       "title":"123",
-      "image":"https://i.pinimg.com/564x/47/82/db/4782db08be5d05d6e878991fadc57308.jpg"
+      "image":"https://i.pinimg.com/564x/9f/e1/e7/9fe1e74541561c0c46e027db7023efa5.jpg"
     },
 	{
       "id":124,
@@ -832,12 +833,6 @@
       "name_category": "All Image",
       "title":"129",
       "image":"https://i.pinimg.com/564x/c5/b0/a6/c5b0a6a496393b55959aa11d6817de78.jpg"
-    },
-	{
-      "id":130,
-      "name_category": "All Image",
-      "title":"130",
-      "image":"https://i.pinimg.com/564x/9f/e1/e7/9fe1e74541561c0c46e027db7023efa5.jpg"
     }
     
   ]
